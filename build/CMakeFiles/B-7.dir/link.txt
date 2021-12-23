@@ -1,0 +1,3 @@
+D:\cmake-3.21.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\B-7.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\B-7.dir/objects.a @CMakeFiles\B-7.dir\objects1.rsp
+D:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\B-7.dir/objects.a -Wl,--no-whole-archive -o B-7.exe -Wl,--out-implib,libB-7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\B-7.dir\linklibs.rsp
