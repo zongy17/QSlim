@@ -38,3 +38,5 @@ B7.exe ../resource/cow 6 # 以cow.obj为输入，最多做6次简化
 B7.exe ../resource/Arma 4 # 以Arma.obj为输入，最多做4次简化
 ```
 
+详细的实现见本人的CSDN博客：https://editor.csdn.net/md/?articleId=121578903
+For detailed implementation, please refer to: https://editor.csdn.net/md/?articleId=121578903
